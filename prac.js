@@ -1,2 +1,1 @@
-console.log("hi")
-console.log("hifi")
+console.log("hello bro")
